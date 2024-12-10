@@ -8,7 +8,7 @@ Basically the Qr Code Generator Web Applicaton takes in input of any given text 
 
 Website Deployment : https://qr-code-generator-free.netlify.app/
 
-github pages Deployment : https://webdeveloperisaac.github.io/Qr-Code-Generator/
+github pages Deployment : https://mcjey1234.github.io/Qr-Code-Generator/
 
 Initial UI
 <br/>
